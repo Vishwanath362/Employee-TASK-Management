@@ -20,4 +20,4 @@ This project is an Employee Task Management System built using React and Tailwin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vishwanath362/Employee-TASK-Management.git
