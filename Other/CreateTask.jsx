@@ -38,7 +38,6 @@ const CreateTask = () => {
     })
     setUserData(data)
 
-    console.log(data)
 
     setAssignTo('')
     setCategory('')
